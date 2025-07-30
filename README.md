@@ -6,4 +6,4 @@ The goal of this project is to train a Machine Learning algorithm capable of cla
   
 This project uses the [LeapGestRecog](https://www.kaggle.com/datasets/kmader/leapgestrecog) dataset
 
-**Note:** The dataset is not included in this repository.
+**Note:** The dataset is not included in this repository because of its size.
